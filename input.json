@@ -1,0 +1,37 @@
+{
+    "clients": [
+        {
+            "id": "123abc",
+            "isActive": true,
+            "age": 36,
+            "name": "Dunlap Hubbard",
+            "gender": "male",
+            "company": "CEWARD",
+            "email": "dhubs@ceward.com",
+            "phone": "+1 (234) 234-2345",
+            "address": "169 Rutlegde Street, Konterra, Northern Mariana Islands, 8551"
+        },
+        {
+            "id": "456def",
+            "isActive": true,
+            "age": 24,
+            "name": "Kristen Sellers",
+            "gender": "female",
+            "company": "EMERGENT",
+            "email": "kristens@emergent.com",
+            "phone": "+1 (567) 324-876-1223",
+            "address": "886 Gallatin Place, Fannett, Arkansas, 4656"
+        },
+        {
+            "id": "789ghi",
+            "isActive": true,
+            "age": 30,
+            "name": "Acosta Robbins",
+            "gender": "male",
+            "company": "ORGANICA",
+            "email": "acostaR@organica.com",
+            "phone": "+1 (882) 441-2346",
+            "address": "697 Linden Boulevard, Sattley, Idaho, 1035"
+        }
+    ]
+}
